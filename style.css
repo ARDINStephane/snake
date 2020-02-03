@@ -1,0 +1,19 @@
+body {
+    background: radial-gradient(#333, #111) no-repeat center center;
+}
+
+canvas{
+    margin: 50px auto;
+    display: block;
+    border: gray solid 30px;
+}
+
+h1{
+    text-align: center;
+    color: orange;
+}
+
+#score-js{
+    text-align: center;
+    color: orange;
+}
